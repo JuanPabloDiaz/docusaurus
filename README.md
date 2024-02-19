@@ -1,4 +1,4 @@
-# Website
+# [Docusaurus](https://juanpablodiaz.github.io/docusaurus/)
 
 This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
